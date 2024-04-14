@@ -17,3 +17,5 @@ I learned about css resets and box-sizing
 ### Useful resources
 
 - [Example resource 1](https://www.30secondsofcode.org/css/s/nested-border-radius/) - This helped me to setup the perfect border-radius on outside and inside
+
+[DEMO](https://wajidkhan2-frontendmentor-challenges.github.io/qr-code-components-html-css/)
